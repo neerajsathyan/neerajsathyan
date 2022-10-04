@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neerajsathyan @kewlzilla
-- 👀 I’m interested in Data Science as well as full-stack dev
-- 🌱 I’m currently pursuing masters at VUA/UvA
-- 💞️ I’m looking to collaborate on Data Science Freelance Projects and Kaggle Hobby Competitions.
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me: neeraj.sathian@gmail.com
 
 <!---
